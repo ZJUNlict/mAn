@@ -12,7 +12,7 @@ In ancient China, Mán(eel) is also called 赤鱬(Red giant salamander with a hu
 
 mAn is the main GUI of ZJUNlict. It also processes the vision and referee information (protobuf message).
 
-![GUI](gui.png)
+![GUI](GUI.png)
 
 ## Software Requirement
 
