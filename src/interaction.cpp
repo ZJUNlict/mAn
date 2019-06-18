@@ -236,7 +236,7 @@ void Interaction::kill() {
     ZRecRecorder::instance()->stop();
     RefereeThread::instance()->disconnectTCP();
     QProcess killTask;
-    QString athena = "taskkill -im Athena.exe -f";
+    QString athena = "taskkill -im mAn.exe -f";
     QString medusa = "taskkill -im Medusa.exe -f";
     QString grSim = "taskkill -im grSim.exe -f";
     killTask.execute(medusa);
